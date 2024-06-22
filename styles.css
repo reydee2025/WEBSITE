@@ -3,5 +3,8 @@ body {
 }
 
 p {
-  color: red;
+  color: rgb(255,0,0);
+}
+canvas {
+  background-color: rgb(255,255,0);
 }
